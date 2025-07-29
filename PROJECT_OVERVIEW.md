@@ -184,7 +184,7 @@ Extensive trials were carried out to evaluate obstacle‑avoidance reliability a
 
 ## Performance Improvements
 
-Calibration and iterative debugging improved sensor accuracy, servo synchronisation and overall system reliability. The vehicle now exhibits responsive obstacle avoidance and repeatable manipulator actions.
+Calibration and iterative debugging improved sensor accuracy, servo synchronisation and overall system reliability. The vehicle now exhibits responsive obstacle avoidance and repeatable manipulator actions based on code uploaded to the microcontroller.
 
 ## Personal Reflection
 
