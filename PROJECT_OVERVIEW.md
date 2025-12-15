@@ -20,14 +20,6 @@ This project focused on the firmware architecture and sensor integration for a d
 * **Perception:** HC-SR04 Ultrasonic Sensor (40kHz) for environmental mapping.
 * **Power Supply:** 7.4V Li-Po Bus regulated to 5V logic.
 
-## Hardware Components
-
-* **Arduino Uno R3:** Central microcontroller managing sensors and actuators.  
-* **L298N Motor Driver:** Controls motors for precise directional and speed control using PWM.  
-* **Reduction Motors:** Provide increased torque at reduced speeds, ideal for robotic movements that require both strength and precision.  
-* **Servo Motors:** Position‑controlled actuators for manipulator control via PWM signals.  
-* **HC‑SR04 Ultrasonic Sensor:** Measures distance through ultrasonic pulses for real‑time obstacle detection.
-
 ## Electrical Wiring & Pin Mapping
 
 | Function | Component Pin | Arduino Pin |
