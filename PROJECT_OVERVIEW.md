@@ -5,9 +5,13 @@
 ![Rear View](IMG_8312.jpeg)
 ![Undercarriage Motors](IMG_8313.jpeg)
 
+
+
 ## Project Overview
 
-Assembled the LAFVIN 4WD Smart Car kit, which consisted of wiring an Arduino Uno to an L298N motor driver and an HC‑SR04 ultrasonic sensor. Adapted C++ sketches from online examples to implement reactive obstacle avoidance, custom drive patterns, timed maneuvers and sensor‑data acquisition. Documented code iterations, wiring configurations and test results in a technical log to improve iterative learning in embedded firmware development.
+Focus: Embedded Systems, PWM Motor Control, Sensor Integration
+
+This project focused on the firmware architecture and sensor integration for a differential-drive mobile robot. Utilizing a standard 4WD chassis as a testbed, I developed a C++ control loop for autonomous reactive navigation and 3-DOF manipulator control. The system integrates ultrasonic time-of-flight sensing with an H-Bridge motor driver to execute collision avoidance logic in real-time.
 
 ## System Architecture
 
