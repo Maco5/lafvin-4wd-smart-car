@@ -1,9 +1,3 @@
-/*
- * LAFVIN 4WD Smart Car - Obstacle Avoidance
- * Arduino sketch to drive a 4WD robot with ultrasonic distance sensor.
- * When an object is within the threshold distance, the robot stops,
- * reverses if necessary and then pivots to avoid the obstacle.
- */
 
 // Pin definitions
 const int trigPin = 12;    // ultrasonic trigger pin
