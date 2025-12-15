@@ -1,6 +1,6 @@
+# Autonomous Mobile Robot (AMR) Platform
 
-# LAFVIN 4WD Smart Car
+A firmware engineering project implementing **reactive autonomous navigation** and **3-DOF manipulation** on a differential-drive chassis. Developed in C++ for the ATmega328P (Arduino Uno), this system integrates ultrasonic time-of-flight sensing with PWM motor control to execute real-time collision avoidance.
 
-Self-motivated robotics project (July 1 – July 20, 2025) featuring an Arduino-controlled 4WD car with ultrasonic obstacle avoidance and a servo-driven manipulator arm.
-
-For the full technical write-up with wiring diagrams, firmware listings, photos and testing results, see the [PROJECT_OVERVIEW.md](PROJECT_OVERVIEW.md) file in this repository.
+📄 **Documentation:**
+For the complete engineering breakdown—including hardware architecture, pin mapping, and the finite state machine logic—view the **[Technical Project Overview](PROJECT_OVERVIEW.md)**.
