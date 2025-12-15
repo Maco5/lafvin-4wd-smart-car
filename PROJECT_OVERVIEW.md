@@ -44,7 +44,7 @@ The navigation firmware operates on a reactive control loop (Finite State Machin
 
 Threshold Check: If distance < 25 cm, the avoidance routine is triggered
 
-Avoidance Routine:
+### Avoidance Routine:
 
 State A (Braking): PWM to 0 instantly to halt momentum
 
