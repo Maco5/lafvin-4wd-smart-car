@@ -60,4 +60,4 @@ Sensor Signal Noise
 Problem: The ultrasonic sensor produced erratic readings due to acoustic reflections on soft surfaces. Solution: Implemented a hardware filter by physically isolating the sensor mount and refining the trigger timing logic to ensure clean echo reception.
 
 ## Technical Retrospective
-This project served as a foundational exploration into embedded C++ and electromechanical integration. While the initial version utilized blocking delays (delay()), it highlighted the need for non-blocking architecture (millis() timers) for future multitasking—a concept I am currently implementing in my advanced robotic end-effector project.
+This project served as a foundational exploration into embedded C++ and electromechanical integration. While the initial version utilized blocking delays (delay()), it highlighted the need for a non-blocking architecture (millis() timers) for future multitasking.
