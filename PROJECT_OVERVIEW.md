@@ -1,4 +1,4 @@
-# LAFVIN 4WD Smart Car Project (June–July 2025)
+# Autonomous Mobile Robot (AMR) Platform
 
 ![Top View](IMG_8309.jpeg)
 ![Front View](IMG_8311.jpeg)
