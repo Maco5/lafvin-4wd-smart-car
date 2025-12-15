@@ -1,10 +1,9 @@
-# Autonomous Mobile Robot (AMR) Platform
+# Autonomous Mobile Robot (AMR) 
 
 ![Top View](IMG_8309.jpeg)
 ![Front View](IMG_8311.jpeg)
 ![Rear View](IMG_8312.jpeg)
 ![Undercarriage Motors](IMG_8313.jpeg)
-
 
 
 ## Project Overview
