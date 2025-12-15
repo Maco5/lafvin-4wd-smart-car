@@ -14,12 +14,11 @@ This project focused on the firmware architecture and sensor integration for a d
 
 ## System Architecture
 
-* **Microcontroller:** Arduino Uno R3 (ATmega328P, 16 MHz, 5 V logic).  
-* **Motor Driver:** L298N dual H‑bridge (TB6612FNG also compatible).  
-* **Motors:** Four DC reduction gear motors providing high torque at lower speed for controlled movement.  
-* **Sensors:** HC‑SR04 ultrasonic distance sensor (2 cm–400 cm range).  
-* **Manipulator:** Three PWM‑controlled servos (base, arm and claw).  
-* **Power Supply:** 7.4 V Li‑Po battery regulated to 5 V for the electronics.
+* **Microcontroller:** ATmega328P (Arduino Uno R3) 
+* **Actuation (Locomotion):** L298N Dual H-Bridge Driver controlling 4x DC Geared Motors
+* **Actuation (Manipulation):** 3x PWM-controlled Servos (Base, Arm, End-Effector).  
+* **Perception:** HC-SR04 Ultrasonic Sensor (40kHz) for environmental mapping.
+* **Power Supply:** 7.4V Li-Po Bus regulated to 5V logic.
 
 ## Hardware Components
 
